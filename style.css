@@ -1,0 +1,32 @@
+header{background-image: url("OIP.jfif");background-repeat:no-repeat;background-size:cover;height:100vh;background-position: center;}
+.nav{background-color:rgb(99, 97, 97);color:white;padding:20px;display: flex;align-items:center;overflow: hidden;justify-content: space-between;width:100%;position: fixed;}
+h4{padding-left:30px;}
+a{text-decoration:none;color:white;padding:20px;}
+
+.content{margin:150px;padding:90px;color:white;font-family:cursive;text-shadow:1px 1px 3px black;}
+#navbar{padding:0.5px;}
+button{margin-left: 45%;cursor: pointer;border-radius:40px;background-color:rgb(22, 22, 56);padding:10px;color:white;border-color:white;font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;}
+button:hover{background-color: rgb(215, 21, 21);border-radius: 40px;;}
+*{margin:0;padding:0;box-sizing:border-box;font-family: cursive;}
+.image{margin:10px;padding:10px;font-size: 15px;display: grid}
+h5{padding:10px 0 10px 0;}
+#card{display:grid;border-radius: 15px;grid-template-rows: auto 1fr;box-shadow: 0 0 15px rgb(86, 84, 84);margin:10px 20px;}
+#card img{width:400px;height:50vh;border-radius: 10px 10px 0 0;}
+#MENU{display: grid;padding:0;grid-template-columns:repeat(auto-fit,minmax(400px ,2fr));}
+.price{text-align: right;margin:-10% 0 -10% 0;padding:10px}
+#card button{margin:10px 0 1px -4px;width:150px;background-color: green;border-color:whitesmoke;}
+#card button:hover{background-color: rgb(25, 23, 23);cursor: pointer;}
+.image h5{font-weight:bold;font-size: 15px;font-style: oblique;}
+.row{display: flex ;justify-content:center;align-items: center;}
+.column img {flex:1;width:500px;height:500px;margin:70px}
+.btn{margin:10px -8px 0px -8px ;border-radius: 20px;color:white;background-color: green;}
+.btn:hover{background-color:brown;cursor: pointer;border: solid black;}
+.title{text-align: center;margin:10px}
+FORM{box-shadow: 0px 0px 10px;margin:20px 350px 100px 350px;border-radius: 20px;padding:100px;background-color:skyblue;height:90vh}
+textarea{width:100%;padding:10px;border-radius: 10px;border:solid rgb(156, 155, 155);}
+input[type="text"]{width:100%;padding:10px;border-radius: 10px; border:solid rgb(156, 155, 155);margin:5px;}
+input[type="email"]{width:100%;padding:10px;border-radius: 10px; border:solid rgb(156, 155, 155);margin:5px;}
+#ABOUT{margin:-9px}
+.btn5{background-color: rgb(22, 22, 69);border-radius: 15px;margin:50px 100px 1px 1px;border:solid whitesmoke}
+.btn5:hover{background-color: brown;border:solid white;border-radius: 15px;}
+footer{display:flex;justify-content:center;background-color: #262626;color:white;padding: 3px;0px;}
